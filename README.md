@@ -1,4 +1,4 @@
-# ZypeBot
+# ZypeGitBot
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that The Official GitHub Bot by Zype for Pull Request and Issues watch-up.
 
@@ -30,4 +30,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2021 Rajdeep Malakar <Rajdeep@tgeeks.cf>
+[ISC](LICENSE) © 2021 - 2022 Rajdeep Malakar <Rajdeep@tgeeks.cf>
